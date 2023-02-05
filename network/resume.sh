@@ -17,7 +17,7 @@ NO_LOCK_REQUIRED=false
 . ./.common.sh
 
 echo "${bold}*************************************"
-echo "Quorum Dev Quickstart "
+echo "Enterprise Ethereum Development"
 echo "*************************************${normal}"
 echo "Resuming network..."
 echo "----------------------------------"

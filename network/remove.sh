@@ -23,7 +23,7 @@ removeDockerImage(){
 }
 
 echo "${bold}*************************************"
-echo "Quorum Dev Quickstart "
+echo "Enterprise Ethereum Development"
 echo "*************************************${normal}"
 echo "Stop and remove network..."
 

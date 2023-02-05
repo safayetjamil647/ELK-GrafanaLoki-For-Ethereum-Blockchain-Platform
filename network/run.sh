@@ -23,7 +23,7 @@ mkdir -p logs/besu logs/quorum logs/tessera
 echo "docker-compose.yml" > ${LOCK_FILE}
 
 echo "${bold}*************************************"
-echo "Quorum Dev Quickstart"
+echo "Enterprise Ethereum Development"
 echo "*************************************${normal}"
 echo "Start network"
 echo "--------------------"
