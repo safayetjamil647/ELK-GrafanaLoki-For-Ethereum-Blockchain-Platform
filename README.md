@@ -102,5 +102,6 @@ x-filebeat-def:
 ```
 The file beat config file stored in filebeat directory under network directory.
 also with dockerfile.That also track the logstash log files also.Just check the files for configuration .
-![Elk Log Query Dashboard](https://user-images.githubusercontent.com/60421249/218856156-99e17553-3c63-4412-b78c-f7fbf24617de.png)
+
+![Elastic Search Kibana Dashboard For Logs](https://user-images.githubusercontent.com/60421249/218857749-c65dec9b-0d26-4b8b-ac0a-70c1a95248a1.png)
 
