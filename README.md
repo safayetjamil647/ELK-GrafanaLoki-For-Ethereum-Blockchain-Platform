@@ -101,4 +101,6 @@ x-filebeat-def:
     - ./logs/tessera/:/var/log/tessera/
 ```
 The file beat config file stored in filebeat directory under network directory.
-also with dockerfile.That also track the logstash log files also.Just check the files for configuration . 
+also with dockerfile.That also track the logstash log files also.Just check the files for configuration .
+![Elk Log Query Dashboard](https://user-images.githubusercontent.com/60421249/218856156-99e17553-3c63-4412-b78c-f7fbf24617de.png)
+
